@@ -1,5 +1,5 @@
 # Web_designing
 Author-Amisha
 <br> 
-On 13th December,2023 , I started my journey as a web designing freelancer. I have no knowledge about it. Let's pray for the best and see where it goes.
+On 28 December 2023, I started with front-end development. In this section, knowledge of 3 languages, HTML, CSS, and Javascript, is required. Let's get started with HTML first. 
 <br>
